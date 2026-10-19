@@ -1,0 +1,13 @@
+{
+  "versionCode": 100011,
+  "versionName": "0.1.11",
+  "apkUrl": "https://raw.githubusercontent.com/gosu-internal/Storyteller-Releases/main/storyteller-100011.apk",
+  "sha256": "f179cafc37a2e05f69aab45ffeae7e35f30c62481db64a21c35a805e65b1ca42",
+  "byteSize": 6379854,
+  "minSupportedVersionCode": 100000,
+  "releaseNotes": [
+    "App: share any file into Storyteller; server: no file names as titles"
+  ],
+  "sourceSha": "26a17ec939206c9cfcce66de24be15d131a4f4e5",
+  "publishedAt": "2026-10-19T03:01:52Z"
+}
